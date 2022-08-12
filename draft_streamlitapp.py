@@ -17,7 +17,7 @@ st.write("Using Deep Learning models from SciKit Learn and tensorflow and using 
  
 
 # First image
-image1 = Image.open('C:/Users/Owner/Class_Notes/03_Projects/Project_3/G12_Project_3/Visualizations/farm.jpg')
+image1 = Image.open('./Visualizations/farm.jpg')
 st.image(image1) 
 
 # Set up sidebar

@@ -4,26 +4,10 @@ import pandas as pd
 import numpy as np
 import datetime as dt
 from pathlib import Path
-## import joblib
-import pickle
-from collections import Counter
 from PIL import Image
-
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler, OneHotEncoder
-
-import tensorflow as tf
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense
 
 import os
 import requests
-from dotenv import load_dotenv
-import alpaca_trade_api as tradeapi
-import json
-import hvplot.pandas
-import matplotlib.pyplot as plt
-from pandas.tseries.offsets import DateOffset
 
 # Create Header
 st.write('''# Renewable Enegergy Portfolio: Is now a good time to buy?''')

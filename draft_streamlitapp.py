@@ -23,7 +23,7 @@ st.image(image1)
 # Set up sidebar
 st.sidebar.header('Choose stock/Index')
 stocks = st.sidebar.selectbox('Stocks', ['AQN', 'CSIQ', 'CVX','DQ', 'FSLR', 'SEDG','XOM','SP500','NASDAQ'])
-image2 = Image.open('C:/Users/Owner/Class_Notes/03_Projects/Project_3/G12_Project_3/Visualizations/ui_logo.jpg')
+image2 = Image.open('./Visualizations/ui_logo.jpg')
 st.sidebar.image(image2)        
 st.sidebar.write('Group 12: Amany El Gouhary, Katharine Zenta, '
                  'Nicolas Hernandez, Al Bakomito')

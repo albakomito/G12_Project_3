@@ -30,42 +30,59 @@ st.sidebar.write('Group 12: Amany El Gouhary, Katharine Zenta, '
 
 # Project 2 Recap 
 ## Machine Learning Outputs 
-st.write('''## Machine Learning Outputs''')
-st.write('''### LSTM One-level Sequential Model, 10 Day Window''')
+st.write('''## Preoject 2 Recap: Machine Learning Outputs''')
+st.write('''#### LSTM One-level Sequential Model, 10 Day Window''')
 st.write('Portfolio & SPY Closing Price: US$100k Initial Investment')
 image3= Image.open('./Visualizations/ML1.jpg')
 st.image(image3)
+
+
 
 st.write('Validation & Prediction Period')
 image4= Image.open('./Visualizations/ML2.jpg')
 st.image(image4)
 
+
+
 st.write('Validation & Prediction Period: Zoomed in')
 image5= Image.open('./Visualizations/ML3.jpg')
 st.image(image5)
 
-# Project 3: Predictions & Classification 
-st.write('Actual vs. Predicted')
-image6= Image.open('./Visualizations/predictions.jpg')
+
+
+# Project 3: Prediction & Classification 
+st.write('''## Project 3: Prediction & Classification''')
+st.write('''#### Actual vs. Predicted''')
+image6= Image.open('./Visualizations/prediction.jpg')
 st.image(image6)
 
-st.write('Classification Report')
+
+
+st.write('''#### Classification Report''')
 image7= Image.open('./Visualizations/confusion.jpg')
 st.image(image7)
 
+
+
 # Strong Returns & Fundamentals vs. Fossil fuels and Indices 
-st.write('Think Green Portfolio Cumulative Profit: $29644')
+st.write('''#### Think Green Portfolio Cumulative Profit: $29644''')
 image8= Image.open('./Visualizations/cumprof.jpg')
 st.image(image8)
 
-st.write('S&P500 Cumulative Profit:$15300')
-image8= Image.open('./Visualizations/SP500.jpg')
-st.image(image8)
 
-st.write('Think Green vs. Fossil Fuels vs. Indices Cumulative Profit: A clear outperformer')
-image9= Image.open('./Visualizations/allcumprof.jpg')
+
+st.write('''#### S&P500 Cumulative Profit:$15300''')
+image9= Image.open('./Visualizations/SP500.jpg')
 st.image(image9)
 
-st.write('Elevated PEs will likely unwind')
-image10= Image.open('./Visualizations/pe.jpg')
+
+
+st.write('''#### Think Green vs. Fossil Fuels vs. Indices Cumulative Profit: A clear outperformer''')
+image10= Image.open('./Visualizations/allcumprof.jpg')
 st.image(image10)
+
+
+
+st.write('''#### Elevated PEs will likely unwind''')
+image11= Image.open('./Visualizations/pe.jpg')
+st.image(image11)

@@ -30,7 +30,7 @@ st.sidebar.write('Group 12: Amany El Gouhary, Katharine Zenta, '
 
 # Project 2 Recap 
 ## Machine Learning Outputs 
-st.write('''## Preoject 2 Recap: Machine Learning Outputs''')
+st.write('''## Project 2 Recap: Machine Learning Outputs''')
 st.write('''#### LSTM One-level Sequential Model, 10 Day Window''')
 st.write('Portfolio & SPY Closing Price: US$100k Initial Investment')
 image3= Image.open('./Visualizations/ML1.jpg')
@@ -63,26 +63,32 @@ image7= Image.open('./Visualizations/confusion.jpg')
 st.image(image7)
 
 
-
-# Strong Returns & Fundamentals vs. Fossil fuels and Indices 
-st.write('''#### Think Green Portfolio Cumulative Profit: $29644''')
-image8= Image.open('./Visualizations/cumprof.jpg')
+# Sentiment Analysis  
+st.write('''#### Sentiment Analysis: First Solar''')
+image8= Image.open('./Visualizations/sentiment.jpg')
 st.image(image8)
 
 
 
-st.write('''#### S&P500 Cumulative Profit:$15300''')
-image9= Image.open('./Visualizations/SP500.jpg')
+# Strong Returns & Fundamentals vs. Fossil fuels and Indices 
+st.write('''#### Think Green Portfolio Cumulative Profit: $29644''')
+image9= Image.open('./Visualizations/cumprof.jpg')
 st.image(image9)
 
 
 
-st.write('''#### Think Green vs. Fossil Fuels vs. Indices Cumulative Profit: A clear outperformer''')
-image10= Image.open('./Visualizations/allcumprof.jpg')
+st.write('''#### S&P500 Cumulative Profit:$15300''')
+image10= Image.open('./Visualizations/SP500.jpg')
 st.image(image10)
 
 
 
-st.write('''#### Elevated PEs will likely unwind''')
-image11= Image.open('./Visualizations/pe.jpg')
+st.write('''#### Think Green vs. Fossil Fuels vs. Indices Cumulative Profit: A clear outperformer''')
+image11= Image.open('./Visualizations/allcumprof.jpg')
 st.image(image11)
+
+
+
+st.write('''#### Elevated PEs will likely unwind''')
+image12= Image.open('./Visualizations/pe.jpg')
+st.image(image12)

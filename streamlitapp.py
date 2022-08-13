@@ -64,7 +64,7 @@ st.image(image7)
 
 
 
-st.write('''#### Classification w/ Fundamentals''')
+st.write('''#### Classification w/o Fundamentals''')
 image8= Image.open('./Visualizations/confusion2.jpg')
 st.image(image8)
 

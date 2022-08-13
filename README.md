@@ -1,5 +1,12 @@
-# Group 12:Project_3
-Renewable Energy: A good time to invest? 
+# Group 12: Project 3
+## Renewable Energy: A good time to invest? 
+
+### Source Files
+Visualizations: Images we used to run streamlitapp.py
+Downloads/CSV_1: CSV's used in fundamental_charts.ipynb
+Downloads/CSV_1: CSV's used in machine_learning.ipynb and stock_sentiment.ipynb
+
+
 
 Our project's purpose is to build on our previous work and use Classification and Sentiment Analysis to demonstrate that our renewable energy portfolio is a good investment for environmentally conscious and socially responsible investors. This project utilized a neural network via Classification to anaylze the projection of the green portofolio prices and if they would provide a positive outcome. As a comparison we use NLP sentiment anaylsis to further illustrate these renewable energy stocks are a great investment. Once we have gathered our data we will create a user friendly interactive dashboard where investors can view our findings. Our hope is that with the knowledge provided the investors will make a more informed decision to enthusatically invest in these companies which will provide positive reutrns. 
 

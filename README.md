@@ -1,4 +1,4 @@
-# Group 12: Project 3
+# Renewable Energy Investing 
 ## Renewable Energy: A good time to invest? 
 
 ### Source Files

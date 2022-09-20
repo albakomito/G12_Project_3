@@ -7,12 +7,14 @@
 * Downloads/CSV_2: CSV's used in machine_learning.ipynb and stock_sentiment.ipynb
 
 ### Output Notebooks: 
-* Visualizations: Images we used to run streamlitapp.py
-* Downloads/CSV_1: CSV's used in fundamental_charts.ipynb
-* Downloads/CSV_2: CSV's used in machine_learning.ipynb and stock_sentiment.ipynb
+* fundamental_charts.ipynb: Key performance indicators (ratios) used for our deployed investor dashboard. 
+* machine_learning.ipynb: Machine learning code. 
+* stock_sentiment.ipynb: sentiment analysis code. 
+* streamlit deployment: https://albakomito-g12-project-3-streamlitapp-3zw1yp.streamlitapp.com/
+* Note: Code instructions are all contained within each notebook. 
 
 
-### Introduction 
+### Summary(Introduction) 
 Our project's purpose is to build on our previous work and use Classification and Sentiment Analysis to demonstrate that our renewable energy portfolio is a good investment for environmentally conscious and socially responsible investors. This project utilized a neural network via Classification to anaylze the projection of the green portofolio prices and if they would provide a positive outcome. As a comparison we use NLP sentiment analysis to further illustrate these renewable energy stocks are a great investment. Once we have gathered our data we will create a user friendly interactive dashboard where investors can view our findings. Our hope is that with the knowledge provided the investors will make a more informed decision to enthusatically invest in these companies which will provide positive reutrns. 
 
 The following provides a brief description of how we gathered the data and developed our code, followed by our findings after analysing the data. Finally, we use Streamlit (https://albakomito-g12-project-3-streamlitapp-3zw1yp.streamlitapp.com/) as a frontend development tool to display our result in a user friendly UI.

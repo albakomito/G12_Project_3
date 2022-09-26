@@ -39,8 +39,13 @@ Our next step was to create a sentiment analysis using Google News API and obser
 
 <img src="https://github.com/albakomito/Renewable-Energy-Investing/blob/main/Visualizations/prediction.jpg" width="120" height="300">
 
-Another issue we ran into was not having enough data or news on some of the stocks we chose to create a more comprehensive sentiment analysis on our portfolio. 
+Another issue we encountered was insufficient data or news on some of the stocks we chose to create a more comprehensive sentiment analysis on our portfolio. 
 
-While we are very passionate about this idea and green investing. We were disappointed to conclude our analysis was not sufficient to provide enough information to the investors to make an informed decision based on what is in the interactive dashboard.
+While we are very passionate about this idea and renewable energy investing, we conclude that our Classification Model and Sentiment Analysis do not provide enough information to  investors to make an informed decision. However, we encourage investors to view our fundamental analysis charts (Cumulative returns, PE multiples, Cumulative Portfolio Profits vs S&P500 cumulative profit) to compare the superior historical performance of our renewable energy stocks against fossil fuel companies and the S&P500 as a starting point for their investment decisions, bearing in mind that past perforamnce is not an accurate predictor of future performance. 
+
+<img src="https://github.com/albakomito/Renewable-Energy-Investing/blob/main/Visualizations/allcumprof.jpg" width="300" height="250">
+<img src="https://github.com/albakomito/Renewable-Energy-Investing/blob/main/Visualizations/pe.jpg" width="300" height="250">
+<img src="https://github.com/albakomito/Renewable-Energy-Investing/blob/main/Visualizations/cumprof.jpg" width="300" height="150">
+<img src="https://github.com/albakomito/Renewable-Energy-Investing/blob/main/Visualizations/SP500.jpg" width="300" height="150">
 
 We would have to pursue this idea in more depth and require more time to try new analysis and approaches to gather better data and results. That being said green investments are certainly a great idea to explore further in the future. 

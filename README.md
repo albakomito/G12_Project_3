@@ -20,12 +20,12 @@
 
 
 ### Summary(Introduction) 
-Our project's purpose is to build on our previous work and use Classification and Sentiment Analysis to demonstrate that our renewable energy portfolio is a good investment for environmentally conscious and socially responsible investors. This project utilizeS a neural network via Classification to anaylze the projection of the green portofolio prices and if they would provide a positive outcome. As a comparison, we use NLP sentiment analysis to further illustrate these renewable energy stocks are a great investment. Once we have gathered our data, we will create a user-friendly interactive dashboard where investors can view our findings. Our hope is that with the knowledge provided, investors will make a more informed decision to invest in these companies, and hopefully achieve market-beating returns. 
+Our project's purpose is to build on our previous work and use Classification and Sentiment Analysis to demonstrate that our renewable energy portfolio is a good investment for environmentally conscious and socially responsible investors. This project utilizes a neural network via Classification to analyze the projection of the Renewable Energy portfolio prices and if they would provide a positive outcome. As a comparison, we use NLP sentiment analysis to further illustrate these renewable energy stocks are a great investment. Once we have gathered our data, we will create a user-friendly interactive dashboard where investors can view our findings. Our hope is that with the knowledge provided, investors will make a more informed decision to invest in these companies, and hopefully achieve market-beating returns. 
 
 Below, we  briefly describe how we gathered the data,  developed our code, and key findings after analysing the data. Finally, we use Streamlit (https://albakomito-g12-project-3-streamlitapp-3zw1yp.streamlitapp.com/) as a frontend development tool to display our results in a user friendly UI.
 
 ### Data Exploration, Machine Learning, NLP & Conclusions
-When preforming our classification analysis, we found that our results were not always accurate or conclusive. When gathering the data we included closing prices, earnings per share (eps) and revenue in our analysis. Our initial analysis (without closing prices, eps and revenue) yielded a very low accuracy score of 33%.
+When preforming our classification analysis, we found that our results were not always accurate or conclusive. When gathering the data we included closing prices, earnings per share (eps) and revenue in our analysis. Our initial analysis (without closing prices, eps and revenue) yielded an exceptionally low accuracy score of 33%.
 
 <img src="https://github.com/albakomito/Renewable-Energy-Investing/blob/main/Visualizations/confusion2.jpg" width="300" height="150">
 
@@ -41,7 +41,7 @@ Our next step was to create a sentiment analysis using Google News API and obser
 
 Another issue we encountered was insufficient data or news on some of the stocks we chose to create a more comprehensive sentiment analysis on our portfolio. 
 
-While we are very passionate about this idea and renewable energy investing, we conclude that our Classification Model and Sentiment Analysis do not provide enough information to  investors to make an informed decision. However, we encourage investors to view our fundamental analysis charts (Cumulative returns, PE multiples, Cumulative Portfolio Profits vs S&P500 cumulative profit) to compare the superior historical performance of our renewable energy stocks against fossil fuel companies and the S&P500 as a starting point for their investment decisions, bearing in mind that past perforamnce is not an accurate predictor of future performance. 
+While we are very passionate about this idea and renewable energy investing, we conclude that our Classification Model and Sentiment Analysis do not provide enough information to  investors to make an informed decision. However, we encourage investors to view our fundamental analysis charts (Cumulative returns, PE multiples, Cumulative Portfolio Profits vs S&P500 cumulative profit) to compare the superior historical performance of our renewable energy stocks against fossil fuel companies and the S&P500 as a starting point for their investment decisions, bearing in mind that past performance is not an accurate predictor of future performance. 
 
 <img src="https://github.com/albakomito/Renewable-Energy-Investing/blob/main/Visualizations/allcumprof.jpg" width="450" height="300">       <img src="https://github.com/albakomito/Renewable-Energy-Investing/blob/main/Visualizations/pe.jpg" width="450" height="300">
 

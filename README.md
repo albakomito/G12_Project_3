@@ -47,4 +47,4 @@ While we are very passionate about this idea and renewable energy investing, we 
 
 <img src="https://github.com/albakomito/Renewable-Energy-Investing/blob/main/Visualizations/cumprof.jpg" width="450" height="300">   <img src="https://github.com/albakomito/Renewable-Energy-Investing/blob/main/Visualizations/SP500.jpg" width="450" height="300">
 
-We would have to pursue this idea in more depth and require more time to try new analysis and approaches to gather better data and results. That being said green investments are certainly a great idea to explore further in the future. 
+We would have to pursue this idea in more depth and require more time to try new analysis and approaches to gather better data and results. That being said, Renewable Energy investments are in principal a great idea to explore further in the future. 

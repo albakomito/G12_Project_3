@@ -37,7 +37,7 @@ To address this,  a future step in this analysis could be to explore different m
 
 Our next step was to create a sentiment analysis using Google News API and observe results in hopes of positive outcomes. However,  our results (illustrated below) were again inconclusive as some months were positive and others were more so on the negative side. 
 
-<img src="https://github.com/albakomito/Renewable-Energy-Investing/blob/main/Visualizations/prediction.jpg" width="100" height="250">
+<img src="https://github.com/albakomito/Renewable-Energy-Investing/blob/main/Visualizations/prediction.jpg" width="120" height="300">
 
 Another issue we ran into was not having enough data or news on some of the stocks we chose to create a more comprehensive sentiment analysis on our portfolio. 
 

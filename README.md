@@ -43,8 +43,8 @@ Another issue we encountered was insufficient data or news on some of the stocks
 
 While we are very passionate about this idea and renewable energy investing, we conclude that our Classification Model and Sentiment Analysis do not provide enough information to  investors to make an informed decision. However, we encourage investors to view our fundamental analysis charts (Cumulative returns, PE multiples, Cumulative Portfolio Profits vs S&P500 cumulative profit) to compare the superior historical performance of our renewable energy stocks against fossil fuel companies and the S&P500 as a starting point for their investment decisions, bearing in mind that past perforamnce is not an accurate predictor of future performance. 
 
-<img src="https://github.com/albakomito/Renewable-Energy-Investing/blob/main/Visualizations/allcumprof.jpg" width="400" height="300">       <img src="https://github.com/albakomito/Renewable-Energy-Investing/blob/main/Visualizations/pe.jpg" width="400" height="300">
+<img src="https://github.com/albakomito/Renewable-Energy-Investing/blob/main/Visualizations/allcumprof.jpg" width="450" height="300">       <img src="https://github.com/albakomito/Renewable-Energy-Investing/blob/main/Visualizations/pe.jpg" width="450" height="300">
 
-<img src="https://github.com/albakomito/Renewable-Energy-Investing/blob/main/Visualizations/cumprof.jpg" width="400" height="300">   <img src="https://github.com/albakomito/Renewable-Energy-Investing/blob/main/Visualizations/SP500.jpg" width="400" height="300">
+<img src="https://github.com/albakomito/Renewable-Energy-Investing/blob/main/Visualizations/cumprof.jpg" width="450" height="300">   <img src="https://github.com/albakomito/Renewable-Energy-Investing/blob/main/Visualizations/SP500.jpg" width="450" height="300">
 
 We would have to pursue this idea in more depth and require more time to try new analysis and approaches to gather better data and results. That being said green investments are certainly a great idea to explore further in the future. 

@@ -1,4 +1,9 @@
 # Renewable Energy Investing 
+
+<img src="https://github.com/albakomito/Renewable-Energy-Investing/blob/main/Visualizations/windfarm.jpg" width="600" height="400">
+
+
+
 ## Renewable Energy: A good time to invest? 
 
 ### Source Files

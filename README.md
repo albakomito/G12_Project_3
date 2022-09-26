@@ -27,7 +27,7 @@ Below, we  briefly describe how we gathered the data,  developed our code, and k
 ### Data Exploration, Machine Learning, NLP & Conclusions
 When preforming our classification analysis, we found that our results were not always accurate or conclusive. When gathering the data we included closing prices, earnings per share (eps) and revenue in our analysis. Our initial analysis (without closing prices, eps and revenue) yielded a very low accuracy score of 33%.
 
-<img src="https://github.com/albakomito/Renewable-Energy-Investing/blob/main/Visualizations/confusion2.jpg" width="300" height="200">
+<img src="https://github.com/albakomito/Renewable-Energy-Investing/blob/main/Visualizations/confusion2.jpg" width="300" height="150">
 
 Upon adding eps, revenue and closing prices to our analysis, our classification model yielded an accuracy score of 59%, which (while higher than our model without the features) was not conclusive. However,  a future step in this analysis could be to  explore different models or analyze different time frames to hopefully generate superior accuracy scores. 
 
